@@ -1,0 +1,1 @@
+SideBySide.exe "Notepad.exe" "Notepad.exe"
